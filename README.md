@@ -2,7 +2,7 @@
 
 
 
-Estoy estudiando para ser Full Stack Developer.  
+Estoy estudiando para ser Backend Developer.  
 Me apasiona aprender y crear soluciones.  
 
 Contáctame en: <a href="mailto:pllworld@hotmail.com">pllworld@hotmail.com</a>  
